@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://media1.tenor.com/m/fO-cGWMNL3MAAAAd/haru-urara.gif" align="center" style="width: 100%" />
-</div>  
+<p align="center">
+  <img src="https://media1.tenor.com/m/fO-cGWMNL3MAAAAd/haru-urara.gif" width="100%">
+</p>
   
 
 ### <div align="center">Hi, I'm Jhon Peter Tello

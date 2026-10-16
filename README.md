@@ -1,139 +1,157 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/fO-cGWMNL3MAAAAd/haru-urara.gif" width="100%">
+ <p align="center">
+  <img src="https://media1.tenor.com/m/fO-cGWMNL3MAAAAd/haru-urara.gif" width="100%" alt="Haru Urara — animated banner"/>
 </p>
-  
 
-### <div align="center">Hi, I'm Jhon Peter Tello
-Software Engineering & AI Student | Backend & Machine Learning Developer</div>  
-  
-
-- 🔭 **Currently working on:** `Machine Learning pipelines & Computer Vision systems`  
-  
-
-- 🌱 **Currently learning:** `Advanced AI models, Kotlin Multiplatform & Mobile Development`  
-  
-
-- ⚡ **Fun fact:** `I enjoy 3D character modeling in Blender & game server development!`  
-  
-
-- 👯 **Looking to collaborate on:** `Open-source AI, Backend & Android projects`  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/ST-Jhon12" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<!-- NEON CYBER PROFILE -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=HELLO+WORLD%2C+I'M+JHON+PETER;SOFTWARE+ENGINEERING+%26+AI;BACKEND+%7C+MACHINE+LEARNING+%7C+COMPUTER+VISION" alt="Animated typing introduction"/>
+
+### `> Software Engineering & AI Student_`
+
+*Building intelligent systems, one line of code at a time.*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ST--Jhon12-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/ST-Jhon12)
+[![Profile Views](https://komarev.com/ghpvc/?username=ST-Jhon12&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/ST-Jhon12)
+
+</div>
+
+---
+
+## `01 // ABOUT ME`
+
+```python
+class JhonPeter:
+    def __init__(self):
+        self.name = "Jhon Peter Tello"
+        self.role = "Software Engineering & AI Student"
+        self.focus = [
+            "Backend Development",
+            "Machine Learning",
+            "Computer Vision",
+            "Mobile Development"
+        ]
+        self.interests = [
+            "Artificial Intelligence",
+            "3D Modeling with Blender",
+            "Game Development"
+        ]
+
+    def current_mission(self):
+        return "Turning ideas into intelligent solutions."
+
+me = JhonPeter()
+```
+
+- 🔭 **Currently working on:** Machine Learning pipelines and Computer Vision systems.
+- 🌱 **Currently learning:** Advanced AI models, Kotlin Multiplatform and mobile development.
+- 🧠 **Interested in:** Building intelligent applications and scalable backend systems.
+- 🎮 **Beyond code:** 3D character modeling with Blender and game server development.
+- 🤝 **Open to collaborating on:** AI, backend and Android projects.
+
+---
+
+## `02 // TECH STACK`
+
+<div align="center">
+
+### `> FRONTEND & UI`
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,figma,chartjs&theme=dark" alt="Frontend technologies"/>
+
+### `> BACKEND & DATABASES`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,php,python,java,mysql,prisma&theme=dark" alt="Backend technologies"/>
+
+### `> AI, COMPUTER VISION & DATA`
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark" alt="AI and computer vision technologies"/>
+
+### `> MOBILE & GAME DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,unity,blender&theme=dark" alt="Mobile and game development tools"/>
+
+### `> TOOLS & INFRASTRUCTURE`
+
+<img src="https://skillicons.dev/icons?i=git,github,bash,powershell,linux,aws,kubernetes,nginx&theme=dark" alt="Development and infrastructure tools"/>
+
+</div>
+
+---
+
+## `03 // FEATURED PROJECTS`
+
+<div align="center">
+
+<a href="https://github.com/ST-Jhon12/Sistema-videojuegos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ST-Jhon12&repo=Sistema-videojuegos&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED" alt="Sistema-videojuegos repository card"/>
 </a>
-<a href="https://www.facebook.com/Jhon Tello" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<a href="https://github.com/ST-Jhon12/censor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ST-Jhon12&repo=censor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED" alt="censor repository card"/>
+</a>
+<a href="https://github.com/ST-Jhon12/holacongit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ST-Jhon12&repo=holacongit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED" alt="holacongit repository card"/>
+</a>
 
-<br/>  
+</div>
 
+### `> PROJECT SPOTLIGHT`
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ST-Jhon12&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+**🎮 GameBird — Video Game Management System**
 
-<br/>  
+A project focused on organizing and exploring video game content, with user registration and account settings.
 
+- **Repository:** [Sistema-videojuegos](https://github.com/ST-Jhon12/Sistema-videojuegos)
+- **Design:** [Figma prototype](https://www.figma.com/design/ceEEH5tQAih7F9nPkD50TZ/SISTEMA-VIDEoJUEGO)
+- **Project management:** Scrum and Trello.
 
-## Recent Blog Posts  
+> For the other projects, explore the repository cards above to see their actual contents and technologies.
 
+---
 
-### Dayum  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+## `04 // GITHUB ANALYTICS`
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ST-Jhon12&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ST-Jhon12&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST-Jhon12&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Most used languages"/>
 
+<br/><br/>
 
-<br />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ST-Jhon12&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF" alt="GitHub contribution streak"/>
 
-----
+</div>
+
+---
+
+## `05 // CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ST-Jhon12&bg_color=0D1117&color=00F7FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## `06 // CONNECT WITH ME`
+
+<div align="center">
+
+<a href="https://github.com/ST-Jhon12">
+  <img src="https://img.shields.io/badge/GitHub-Explore_my_code-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub"/>
+</a>
+<a href="https://www.facebook.com/">
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<br/><br/>
+
+*"The future is built by those who dare to create it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7C3AED,100:0D1117&height=120&section=footer" width="100%" alt="Neon cyber footer"/>
+
+</div>

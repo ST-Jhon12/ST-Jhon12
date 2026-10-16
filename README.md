@@ -1,157 +1,130 @@
- <p align="center">
-  <img src="https://media1.tenor.com/m/fO-cGWMNL3MAAAAd/haru-urara.gif" width="100%" alt="Haru Urara — animated banner"/>
+# Hi, I'm Jhon Peter Tello 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+%26+Software+Developer;Exploring+AI+%26+Computer+Vision;Building+Projects+and+Learning+Every+Day" alt="Animated introduction" />
 </p>
 
-<div align="center">
-
-<!-- NEON CYBER PROFILE -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=HELLO+WORLD%2C+I'M+JHON+PETER;SOFTWARE+ENGINEERING+%26+AI;BACKEND+%7C+MACHINE+LEARNING+%7C+COMPUTER+VISION" alt="Animated typing introduction"/>
-
-### `> Software Engineering & AI Student_`
-
-*Building intelligent systems, one line of code at a time.*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-ST--Jhon12-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/ST-Jhon12)
-[![Profile Views](https://komarev.com/ghpvc/?username=ST-Jhon12&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/ST-Jhon12)
-
-</div>
+<p align="center">
+  <a href="https://github.com/ST-Jhon12">
+    <img src="https://img.shields.io/badge/GitHub-ST--Jhon12-181717?style=flat-square&logo=github" alt="GitHub profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Software%20%26%20AI-2563EB?style=flat-square" alt="Focus: Software and AI" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-0F766E?style=flat-square" alt="Always learning" />
+</p>
 
 ---
 
-## `01 // ABOUT ME`
+## About Me
 
-```python
-class JhonPeter:
-    def __init__(self):
-        self.name = "Jhon Peter Tello"
-        self.role = "Software Engineering & AI Student"
-        self.focus = [
-            "Backend Development",
-            "Machine Learning",
-            "Computer Vision",
-            "Mobile Development"
-        ]
-        self.interests = [
-            "Artificial Intelligence",
-            "3D Modeling with Blender",
-            "Game Development"
-        ]
+I'm a **Software Engineering student** interested in building practical software, developing backend systems, and exploring artificial intelligence.
 
-    def current_mission(self):
-        return "Turning ideas into intelligent solutions."
+I enjoy learning new technologies, experimenting with different tools, and turning ideas into projects that help me improve as a developer.
 
-me = JhonPeter()
-```
-
-- 🔭 **Currently working on:** Machine Learning pipelines and Computer Vision systems.
-- 🌱 **Currently learning:** Advanced AI models, Kotlin Multiplatform and mobile development.
-- 🧠 **Interested in:** Building intelligent applications and scalable backend systems.
-- 🎮 **Beyond code:** 3D character modeling with Blender and game server development.
-- 🤝 **Open to collaborating on:** AI, backend and Android projects.
+- 🔭 **Currently exploring:** Machine learning pipelines and computer vision systems.
+- 🌱 **Learning about:** AI models, Kotlin Multiplatform, and mobile development.
+- 💻 **Interested in:** Backend engineering, full-stack development, and software architecture.
+- 🎮 **Outside coding:** Blender 3D modeling and game server development.
+- 🤝 **Open to collaborating on:** Open-source software, AI, backend, and Android projects.
 
 ---
 
-## `02 // TECH STACK`
+## Technologies & Tools
 
-<div align="center">
+### Languages
 
-### `> FRONTEND & UI`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,kotlin,bash,powershell" alt="Programming languages" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,figma,chartjs&theme=dark" alt="Frontend technologies"/>
+### Frontend & Backend
 
-### `> BACKEND & DATABASES`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express,nginx" alt="Frontend and backend technologies" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,php,python,java,mysql,prisma&theme=dark" alt="Backend technologies"/>
+### Databases & Infrastructure
 
-### `> AI, COMPUTER VISION & DATA`
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,prisma,aws,kubernetes,git,github" alt="Databases, infrastructure and version control" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark" alt="AI and computer vision technologies"/>
+### AI, Computer Vision & Development Tools
 
-### `> MOBILE & GAME DEVELOPMENT`
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,flutter,androidstudio,figma,blender,unity,vscode" alt="AI, computer vision and development tools" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,unity,blender&theme=dark" alt="Mobile and game development tools"/>
-
-### `> TOOLS & INFRASTRUCTURE`
-
-<img src="https://skillicons.dev/icons?i=git,github,bash,powershell,linux,aws,kubernetes,nginx&theme=dark" alt="Development and infrastructure tools"/>
-
-</div>
-
----
-
-## `03 // FEATURED PROJECTS`
-
-<div align="center">
-
-<a href="https://github.com/ST-Jhon12/Sistema-videojuegos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ST-Jhon12&repo=Sistema-videojuegos&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED" alt="Sistema-videojuegos repository card"/>
-</a>
-<a href="https://github.com/ST-Jhon12/censor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ST-Jhon12&repo=censor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED" alt="censor repository card"/>
-</a>
-<a href="https://github.com/ST-Jhon12/holacongit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ST-Jhon12&repo=holacongit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED" alt="holacongit repository card"/>
-</a>
-
-</div>
-
-### `> PROJECT SPOTLIGHT`
-
-**🎮 GameBird — Video Game Management System**
-
-A project focused on organizing and exploring video game content, with user registration and account settings.
-
-- **Repository:** [Sistema-videojuegos](https://github.com/ST-Jhon12/Sistema-videojuegos)
-- **Design:** [Figma prototype](https://www.figma.com/design/ceEEH5tQAih7F9nPkD50TZ/SISTEMA-VIDEoJUEGO)
-- **Project management:** Scrum and Trello.
-
-> For the other projects, explore the repository cards above to see their actual contents and technologies.
+> My toolkit evolves as I learn and build new projects.
 
 ---
 
-## `04 // GITHUB ANALYTICS`
+## Featured Projects
 
-<div align="center">
+Here are some repositories from my GitHub profile. Explore them to see my code and ongoing work.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ST-Jhon12&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST-Jhon12&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ST-Jhon12&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF" alt="GitHub contribution streak"/>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Sistema-videojuegos</h3>
+      <p>A video game catalog and management project.</p>
+      <p><a href="https://github.com/ST-Jhon12/Sistema-videojuegos">View repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ censor</h3>
+      <p>A repository from my development work.</p>
+      <p><a href="https://github.com/ST-Jhon12/censor">View repository →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 holacongit</h3>
+      <p>A repository related to my Git learning and practice.</p>
+      <p><a href="https://github.com/ST-Jhon12/holacongit">View repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 More projects</h3>
+      <p>Explore my repositories for more experiments, exercises, and software projects.</p>
+      <p><a href="https://github.com/ST-Jhon12?tab=repositories">Browse all repositories →</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## `05 // CONTRIBUTION MATRIX`
+## GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ST-Jhon12&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST-Jhon12&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ST-Jhon12&bg_color=0D1117&color=00F7FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ST-Jhon12&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ST-Jhon12&hide_border=true&theme=github-compact" alt="GitHub contribution activity graph" />
+</p>
 
 ---
 
-## `06 // CONNECT WITH ME`
+## Let's Connect
 
-<div align="center">
+<p>
+  <a href="https://github.com/ST-Jhon12">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
-<a href="https://github.com/ST-Jhon12">
-  <img src="https://img.shields.io/badge/GitHub-Explore_my_code-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub"/>
-</a>
-<a href="https://www.facebook.com/">
-  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
+I'm always interested in learning, sharing ideas, and collaborating on projects that help me grow as a developer.
 
-<br/><br/>
+---
 
-*"The future is built by those who dare to create it."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7C3AED,100:0D1117&height=120&section=footer" width="100%" alt="Neon cyber footer"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=2&section=footer" alt="" />
+  <br />
+  <sub>Designed with care by Jhon Peter Tello · Keep learning, keep building.</sub>
+</p>
